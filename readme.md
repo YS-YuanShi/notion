@@ -1,2 +1,2 @@
-Store notion widget htmls
+Store notion widget htmls.
 Based on the tutorials [here](https://blog.shorouk.dev/2020/06/how-to-embed-any-number-of-html-widgets-snippets-into-notion-app-for-free/)
